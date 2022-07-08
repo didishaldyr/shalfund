@@ -1,0 +1,41 @@
+body{
+  font-family: sans-serif;
+}
+.ijo{
+    background-color: #55cd4c;
+  }
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover{
+    opacity: 0.7;
+    color: #55cd4c;
+}
+.ijokeun{
+    color: #55cd4c;
+}
+p{
+    font-size: 16px;
+}
+.marginb {
+    margin-bottom: 45px;
+}
+.margina {
+    margin-top: 45px;
+}
+.bg-1 { 
+    background-color: #a9a9a9; /* Green */
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
